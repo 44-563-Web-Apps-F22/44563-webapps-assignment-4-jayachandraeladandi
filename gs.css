@@ -1,10 +1,26 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-h1 {color:black;}
-p {background-color:lightblue;
-font-family:Times;}
-</style>
-</head>
-</html>
+.Direction {
+    font-size: medium;
+    font-style: initial;
+    font-size: 25px;
+   
+    background-color:lightslategray;
+}
+.Direction:hover {
+    background-color:fuchsia;
+}
+    
+.MEN{
+    font-size: large;
+    font-style:oblique;
+    color: black;
+}
+.SONG{
+    font-size: medium;
+    font-style:italic;
+    color: black;
+}
+.GIRLS{
+    font-size: large;
+    font-style:inherit;
+    color: black;
+}
