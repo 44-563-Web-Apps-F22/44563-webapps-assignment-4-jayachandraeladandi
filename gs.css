@@ -2,37 +2,41 @@
     font-size: medium;
     font-style: initial;
     font-size: 25px;
-   
-    background-color:lightslategray;
+
+    background-color: lightslategray;
 }
+
 .Direction:hover {
-    background-color:fuchsia;
+    background-color: fuchsia;
 }
-    
-.MEN{
+
+.MEN {
     font-size: large;
-    font-style:oblique;
+    font-style: oblique;
     color: black;
 }
-.SONG{
+
+.SONG {
     font-size: medium;
-    font-style:italic;
+    font-style: italic;
     color: black;
 }
-.GIRLS{
+
+.GIRLS {
     font-size: large;
-    font-style:inherit;
+    font-style: inherit;
     color: black;
 }
-table
-th,
-td{
+
+table th,
+td {
     text-align: center;
     border: 3px solid;
     margin: 30px 30px 20px 30px;
     border-color: coral;
 }
+
 th,
-td{
+td {
     padding: 10px;
 }
