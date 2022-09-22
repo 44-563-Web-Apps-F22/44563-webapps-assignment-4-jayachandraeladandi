@@ -48,3 +48,24 @@ tr:nth-child(even)
 .GIRLS:hover {
     text-shadow: 2px 3px 2px crimson; 
 }
+i{
+    color:chartreuse
+}
+ul.navbar-horizontal{
+    margin: 35;
+    list-style-type: none;
+}
+ul.navbar-horizontal li{
+    float: left;
+    background-color: rgb(0, 255, 94);
+}
+ul.navbar-horizontal a:hover{
+    background-color:bisque;
+
+}
+ul.navbar-horizontal a{
+    display: block;
+    padding: 20px;
+    color: rgb(240, 247, 255);
+    
+}
